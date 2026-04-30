@@ -26,4 +26,22 @@
 * Focus on personal branding and LinkedIn growth
 * Strong storytelling and creator economy insights
 
-* 
+## MrBeast
+* Niche: Viral content, growth systems, storytelling
+* Why follow: Master of YouTube retention, thumbnails, and scaling content into a business empire
+* Notably the most-subscribed creator globally (~480M subs)
+
+## Marques Brownlee
+* Niche: Tech, product reviews
+* Why follow: High production + trust-based reviews (gold standard in tech)
+
+## Mark Rober
+* Niche: Science + engineering storytelling
+* Why follow: Combines education + viral content (huge global reach)
+
+## Gary Vaynerchuk
+* Niche: Business, branding, social media
+* Why follow: Real-world marketing + personal brand execution
+* Frequently cited as a go-to for entrepreneurship advice
+
+## Alex Hormozi

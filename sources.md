@@ -45,3 +45,5 @@
 * Frequently cited as a go-to for entrepreneurship advice
 
 ## Alex Hormozi
+* Niche: Scaling businesses, offers, sales
+* Why follow: Straight-to-the-point frameworks (very tactical, no fluff)
